@@ -12,9 +12,9 @@ export const contributorData = [
         linkedinUrl: "https://linkedin.com/in/atharva-sugandhi-391a4b225",
     },
     {
-        name: "Md. Faris Zama",
-        image: "Image Link",
-        githubUrl: "https://github.com/",
+        name: "Md Faris Zama",
+        image: "https://avatars.githubusercontent.com/u/135355857?v=4",
+        githubUrl: "https://github.com/faris808",
         linkedinUrl: "https://in.linkedin.com/in/md-faris-zama-23297823b",
     },
 ];
